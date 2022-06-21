@@ -11,7 +11,6 @@ After running the macro, it's determined that "ENPH" stock ticker has the highes
 
 Below is an image of the original code before refactoring. One key item that I noticed is that within the original code, the format of the numbers within the "Total Daily Volume Column" was not as detailed as the refactoring. 
 Before Refactoring Image:
-
 <img width="767" alt="greenstock_formatting" src="https://user-images.githubusercontent.com/106715923/174691373-0aa157f9-5593-4a6d-a2ee-f4ed5e21b528.png">
 
 
@@ -19,8 +18,6 @@ After the refactoring, you can see that the numbers look more precise and are ou
 
 
 After Refactoring Image:
-
-
 <img width="799" alt="VBA challenge_formatting" src="https://user-images.githubusercontent.com/106715923/174691419-41433200-dcf5-4e3f-ac1e-601e4f5d56b4.png">
 
  
@@ -31,11 +28,13 @@ After Refactoring Image:
 
  2. Disadvantage(s): the run time for the macro has decreased significantly. The time it takes to run appears be SLOWER than the original scripting. Will a few more modifications to the formatting or changes to my computer's processing, I'd believe there could be a way to make the lapse time quicker. See screenshots below:
 Original code lapse time for 2017:
+
 <img width="263" alt="green_stock_2017 lapse time" src="https://user-images.githubusercontent.com/106715923/174691502-26eb51f8-ec18-4860-9cbd-b1db7bb0facf.png">
 
 
 Refactoring code lapse time for 2017:
-![VBA_Challenge_2017 elapsed run time](https://user-images.githubusercontent.com/106715923/174691522-ef0c4559-f5bf-41d5-87dd-6cc93c1ede84.png)
+
+[VBA_Challenge_2017 elapsed run time](https://user-images.githubusercontent.com/106715923/174691522-ef0c4559-f5bf-41d5-87dd-6cc93c1ede84.png)
 
 
 - How do these pros and cons apply to refactoring the original VBA script?
