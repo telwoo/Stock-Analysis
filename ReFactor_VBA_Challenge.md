@@ -38,6 +38,16 @@ Refactoring code lapse time for 2017:
 ![VBA_Challenge_2017 elapsed run time](https://user-images.githubusercontent.com/106715923/174691899-64d95a0d-d783-4e94-b47b-46a534a1eeff.png)
 
 
+Original code lapse time for 2018:
+
+<img width="261" alt="green_stock_2018 lapse time" src="https://user-images.githubusercontent.com/106715923/174692008-4c1f2463-0f0b-46ce-9474-7f8eefebb018.png">
+
+
+Refactoring code laspe time for 2018:
+
+![VBA_Challenge_2018 elapsed time](https://user-images.githubusercontent.com/106715923/174692022-dea3a28c-7890-4f02-ae76-a52710c2ad36.png)
+
+
 - How do these pros and cons apply to refactoring the original VBA script?
  1. Pros: Refactoring helps in finding bugs within the system; refactoring can help make programming faster and easier to understand/maneuver through. Because I was able to outline the formatting so that it was be more readable to the viewers, it helps in reviewing it better than the original VBA script.
  2. Cons: sometimes in debugging, you could easily spend copious amounts of time refactoring; in a corporate sense, it could be the possibility of running out of resources to fund refactoring. It took a longer amount of time to add a few more codes to the refactoring script than the original script (which could be cumbersome after already trying to make sure that the code is working properly in the first place). 
