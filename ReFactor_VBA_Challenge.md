@@ -33,8 +33,7 @@ Original code lapse time for 2017:
 
 
 Refactoring code lapse time for 2017:
-
-[VBA_Challenge_2017 elapsed run time](https://user-images.githubusercontent.com/106715923/174691522-ef0c4559-f5bf-41d5-87dd-6cc93c1ede84.png)
+(https://user-images.githubusercontent.com/106715923/174691522-ef0c4559-f5bf-41d5-87dd-6cc93c1ede84.png)
 
 
 - How do these pros and cons apply to refactoring the original VBA script?
