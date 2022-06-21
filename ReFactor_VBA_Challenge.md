@@ -33,6 +33,7 @@ Original code lapse time for 2017:
 
 
 Refactoring code lapse time for 2017:
+
 ![VBA_Challenge_2017 elapsed run time](https://user-images.githubusercontent.com/106715923/174691899-64d95a0d-d783-4e94-b47b-46a534a1eeff.png)
 
 
