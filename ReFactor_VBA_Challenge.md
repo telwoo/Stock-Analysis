@@ -24,12 +24,12 @@ After the refactoring, you can see that the numbers look more precise and are ou
  1. Advantage(s): formatting of the arrays created for tickers, tickerVolumnes, tickerStartingPrice, and tikcerEndingprice. This make the numbers of the "Total Daily Volume" column look more fluid and readable. 
 
  2. Disadvantage(s): the run time for the macro has decreased significantly. The time it takes to run appears be SLOWER than the original scripting. Will a few more modifications to the formatting or changes to my computer's processing, I'd believe there could be a way to make the lapse time quicker. See screenshots below:
-Original code lapse time:
-![Original Code lapse time image]<img width="263" alt="green_stock_2017 lapse time" src="https://user-images.githubusercontent.com/106715923/174691502-26eb51f8-ec18-4860-9cbd-b1db7bb0facf.png">
+Original code lapse time for 2017:
+<img width="263" alt="green_stock_2017 lapse time" src="https://user-images.githubusercontent.com/106715923/174691502-26eb51f8-ec18-4860-9cbd-b1db7bb0facf.png">
 
 
-Refactoring code lapse time:
-![Refactoring Code lapse image]![VBA_Challenge_2017 elapsed run time](https://user-images.githubusercontent.com/106715923/174691522-ef0c4559-f5bf-41d5-87dd-6cc93c1ede84.png)
+Refactoring code lapse time for 2017:
+![VBA_Challenge_2017 elapsed run time](https://user-images.githubusercontent.com/106715923/174691522-ef0c4559-f5bf-41d5-87dd-6cc93c1ede84.png)
 
 
 - How do these pros and cons apply to refactoring the original VBA script?
