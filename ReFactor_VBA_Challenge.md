@@ -10,7 +10,7 @@ Steve wanted to outline specific stocks to make sure that his parents had the fi
 After running the macro, it's determined that "ENPH" stock ticker has the highest daily volume of 607,473,500, with a positive return of 81.9%. "AY" stock ticker has the lowest daily volume of 83,079,900, with a negative return of 7.3%. Based on these outputs, it would be wise for Steve to detail to his parents that this **ENPH** would be a good stock for them to invest in in the long run. In 2017, there were more positive returns (11) from the stocks, and only one negative return - so it appears that the stocks were doing well that year! However, there were more negative returns from the stocks (10), and only two positive returns. We can conclude that there might been some large financial undertakings or economic influences that causes this large shift in return within the two years.
 
 Below is an image of the original code before refactoring. One key item that I noticed is that within the original code, the format of the numbers within the "Total Daily Volume Column" was not as detailed as the refactoring. 
-![Before Refactoring Image]()
+![Before Refactoring Image](img width="767" alt="greenstock_formatting" src="https://user-images.githubusercontent.com/106715923/174691263-5ed53cf2-c7f6-4e12-88c1-7f46ed421edc.png")
 
 After the refactoring, you can see that the numbers look more precise and are outlined to be more readable to Steve and his parents. In both original and refactoring images, the initial input text box that allows in the macro to select the year allows the data to be specified. This one detail outlines the profitability of the stock from one year to another. 
 ![After Refactoring Image]()
