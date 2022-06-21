@@ -11,6 +11,7 @@ After running the macro, it's determined that "ENPH" stock ticker has the highes
 
 Below is an image of the original code before refactoring. One key item that I noticed is that within the original code, the format of the numbers within the "Total Daily Volume Column" was not as detailed as the refactoring. 
 Before Refactoring Image:
+
 <img width="767" alt="greenstock_formatting" src="https://user-images.githubusercontent.com/106715923/174691373-0aa157f9-5593-4a6d-a2ee-f4ed5e21b528.png">
 
 
@@ -18,6 +19,8 @@ After the refactoring, you can see that the numbers look more precise and are ou
 
 
 After Refactoring Image:
+
+
 <img width="799" alt="VBA challenge_formatting" src="https://user-images.githubusercontent.com/106715923/174691419-41433200-dcf5-4e3f-ac1e-601e4f5d56b4.png">
 
  
