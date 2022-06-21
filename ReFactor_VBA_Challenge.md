@@ -15,7 +15,9 @@ Before Refactoring Image
 
 
 After the refactoring, you can see that the numbers look more precise and are outlined to be more readable to Steve and his parents. In both original and refactoring images, the initial input text box that allows in the macro to select the year allows the data to be specified. This one detail outlines the profitability of the stock from one year to another. 
+
 After Refactoring Image
+
 <img width="799" alt="VBA challenge_formatting" src="https://user-images.githubusercontent.com/106715923/174691419-41433200-dcf5-4e3f-ac1e-601e4f5d56b4.png">
 
  
