@@ -26,7 +26,7 @@ After Refactoring Image:
 - What are the advantages or disadvantages of refactoring code?
  1. Advantage(s): formatting of the arrays created for tickers, tickerVolumnes, tickerStartingPrice, and tikcerEndingprice. This make the numbers of the "Total Daily Volume" column look more fluid and readable. 
 
- 2. Disadvantage(s): the run time for the macro has decreased significantly. The time it takes to run appears be SLOWER than the original scripting. Will a few more modifications to the formatting or changes to my computer's processing, I'd believe there could be a way to make the lapse time quicker. See screenshots below:
+ 2. Disadvantage(s): the run time for the macro has increased slightly. The time it takes to run appears be SLOWER than the original scripting. Will a few more modifications to the formatting or changes to my computer's processing, I'd believe there could be a way to make the lapse time quicker. See screenshots below:
 
 Original code lapse time for 2017:
 
