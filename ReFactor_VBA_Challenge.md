@@ -14,7 +14,8 @@ Below is an image of the original code before refactoring. One key item that I n
 
 
 After the refactoring, you can see that the numbers look more precise and are outlined to be more readable to Steve and his parents. In both original and refactoring images, the initial input text box that allows in the macro to select the year allows the data to be specified. This one detail outlines the profitability of the stock from one year to another. 
-[After Refactoring Image]<img width="799" alt="VBA challenge_formatting" src="https://user-images.githubusercontent.com/106715923/174691419-41433200-dcf5-4e3f-ac1e-601e4f5d56b4.png">
+[After Refactoring Image]
+<img width="799" alt="VBA challenge_formatting" src="https://user-images.githubusercontent.com/106715923/174691419-41433200-dcf5-4e3f-ac1e-601e4f5d56b4.png">
 
  
 ## Summary
@@ -24,10 +25,12 @@ After the refactoring, you can see that the numbers look more precise and are ou
 
  2. Disadvantage(s): the run time for the macro has decreased significantly. The time it takes to run appears be SLOWER than the original scripting. Will a few more modifications to the formatting or changes to my computer's processing, I'd believe there could be a way to make the lapse time quicker. See screenshots below:
 Original code lapse time:
-![Original Code lapse time image]()
+![Original Code lapse time image]<img width="263" alt="green_stock_2017 lapse time" src="https://user-images.githubusercontent.com/106715923/174691502-26eb51f8-ec18-4860-9cbd-b1db7bb0facf.png">
+
 
 Refactoring code lapse time:
-![Refactoring Code lapse image]()
+![Refactoring Code lapse image]![VBA_Challenge_2017 elapsed run time](https://user-images.githubusercontent.com/106715923/174691522-ef0c4559-f5bf-41d5-87dd-6cc93c1ede84.png)
+
 
 - How do these pros and cons apply to refactoring the original VBA script?
  1. Pros: Refactoring helps in finding bugs within the system; refactoring can help make programming faster and easier to understand/maneuver through. Because I was able to outline the formatting so that it was be more readable to the viewers, it helps in reviewing it better than the original VBA script.
