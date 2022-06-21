@@ -27,6 +27,7 @@ After Refactoring Image:
  1. Advantage(s): formatting of the arrays created for tickers, tickerVolumnes, tickerStartingPrice, and tikcerEndingprice. This make the numbers of the "Total Daily Volume" column look more fluid and readable. 
 
  2. Disadvantage(s): the run time for the macro has decreased significantly. The time it takes to run appears be SLOWER than the original scripting. Will a few more modifications to the formatting or changes to my computer's processing, I'd believe there could be a way to make the lapse time quicker. See screenshots below:
+
 Original code lapse time for 2017:
 
 <img width="263" alt="green_stock_2017 lapse time" src="https://user-images.githubusercontent.com/106715923/174691502-26eb51f8-ec18-4860-9cbd-b1db7bb0facf.png">
